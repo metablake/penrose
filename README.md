@@ -1,4 +1,4 @@
-# penrose
+# Penrose Tiling
 A simple Penrose tiling visualization in Processing
 
 ![large penrose](large_penrose.png)
